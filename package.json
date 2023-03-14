@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.7.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
